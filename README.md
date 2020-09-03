@@ -1,7 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
-An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+An example node.js project, including tests with mocha, that behaves like a pocket calculator.
 
 [![Build Status](https://dev.azure.com/enderbritorojas0648/calculator/_apis/build/status/enderbrito83.calculator?branchName=master)](https://dev.azure.com/enderbritorojas0648/calculator/_build/latest?definitionId=4&branchName=master)
 
@@ -15,4 +14,3 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
-
